@@ -3,6 +3,7 @@
  * main - Receives no arguement value
  * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	int a;
