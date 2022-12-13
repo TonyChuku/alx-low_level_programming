@@ -2,16 +2,15 @@
 
 /**
  * main - Returns no arguement
- *
  * Return: void
  */
+
 void print_alphabet(void)
 {
-	char c;
+	int alpha;
 
-	for (c = 'a'; c <= 'z'; c++)
-	{
-		_putchar(c);
-	}
+	for (alpha = 'a'; alpha <= 'z'; alpha++)
+		_putchar(alpha);
+
 	_putchar('\n');
 }
