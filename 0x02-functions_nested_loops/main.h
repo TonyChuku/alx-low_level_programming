@@ -1,5 +1,5 @@
-#ifndef MAIN_H
-#define MAIN_H
+#ifndef MAIN_H_
+#define MAIN_H_
 
 /**
  * functions prototype
@@ -7,7 +7,7 @@
 
 int _putchar(char c);
 void print_alphabet(void);
-void print_alphabet_0x10(void);
+void print_alphabet_10(void);
 int _islower(int c);
 int isalpha(int c);
 int print_sign(int n);
