@@ -6,7 +6,6 @@
  * @argv: pointer to array of arguments
  * Return: 0 on success
  */
-
 int main(int argc, char *argv[])
 {
 	int i = 0;
